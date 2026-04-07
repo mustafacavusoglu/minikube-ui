@@ -1,5 +1,8 @@
 # Minikube UI
 
+<img width="1755" height="1054" alt="image" src="https://github.com/user-attachments/assets/243f4eaf-fb15-483b-b672-fdcbd8f2386f" />
+
+
 An OpenShift-style Kubernetes dashboard for Minikube clusters. Provides a modern web UI for managing and monitoring your local Kubernetes resources — pods, deployments, services, ingresses, configmaps, secrets, and more — with real-time log streaming and interactive terminal access.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
